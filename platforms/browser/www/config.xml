@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.fyserviciosdigitales.controlEA201" version="2.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>controlEA2.1.1</name>
+    <description>
+       ControlEA
+    </description>
+    <author email="yezergm@gmail.com" href="http://www.fyserviciosdigitales.com">
+        fyserviciosdigitales
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+</widget>

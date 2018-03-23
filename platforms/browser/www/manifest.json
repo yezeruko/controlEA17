@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "controlEA2.1.1",
+  "short_name": "controlEA2.1.1",
+  "version": "com.fyserviciosdigitales.controlEA201",
+  "description": "ControlEA",
+  "author": "fyserviciosdigitales",
+  "icons": [],
+  "start_url": "index.html"
+}
